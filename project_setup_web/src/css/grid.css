@@ -1,3 +1,12 @@
+body,
+input,
+select,
+option textarea {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: #707070;
+}
+
 .container {
   width: 100%;
   max-width: 1170px;
